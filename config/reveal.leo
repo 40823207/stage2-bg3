@@ -216,7 +216,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;哈囉&lt;/h2&gt;
     &lt;p&gt;
         reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
     &lt;/p&gt;
