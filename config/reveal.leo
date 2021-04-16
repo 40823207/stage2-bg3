@@ -279,11 +279,16 @@ vertical: body pane on the botton</t>
 &lt;p class="fragment" data-fragment-index="2"&gt;其次&lt;/p&gt;
 &lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171312.1">&lt;section data-transition="zoom" data-transition-speed="slow"&gt;
-&lt;p&gt;convex convex convex  凸 面  convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex convex convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex 请继续按 ↓ convex convex&lt;/p&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
+    &lt;div class="r-stack"&gt;
+        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
+        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
+        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;div class="r-hstack justify-center"&gt;
         &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
