@@ -217,19 +217,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;哈囉&lt;/h2&gt;
-    &lt;p class="fragment"&gt;需要逐条目,&lt;/p&gt;
-&lt;span class="fragment"&gt;逐项&lt;/span&gt;
-&lt;pre class="fragment"&gt;地出现&lt;/pre&gt;
-&lt;p class="fragment grow"&gt;增大&lt;/p&gt;
-&lt;p class="fragment shrink"&gt;缩小&lt;/p&gt;
-&lt;p class="fragment fade-out"&gt;阅后消失&lt;/p&gt;
-
-&lt;p class="fragment fade-up"&gt;向上出现&lt;/p&gt;
-&lt;p class="fragment fade-right"&gt;向右出现&lt;/p&gt;
-
-&lt;p class="fragment" data-fragment-index="3"&gt;再次&lt;/p&gt;
-&lt;p class="fragment" data-fragment-index="2"&gt;其次&lt;/p&gt;
-&lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;
+    
 &lt;/section&gt;
 
 </t>
