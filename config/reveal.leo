@@ -218,22 +218,29 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section data-transition="fade" data-transition-speed="slow"&gt;
-&lt;p&gt;fade fade fade 淡 入 效 果 fade fade fade&lt;/p&gt;
-&lt;p&gt;fade fade fade fade  fade fade fade fade&lt;/p&gt;
-&lt;p&gt;fade fade fade  请继续按 ↓ fade fade fade&lt;/p&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20200818170535.1">&lt;section&gt;
+    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;p&gt;
+        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+    &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section data-transition="concave" data-transition-speed="slow"&gt;
-&lt;p&gt;concave concave  凹  面  concave concave &lt;/p&gt;
-&lt;p&gt;concave concave concave concave concave &lt;/p&gt;
-&lt;p&gt;concave concave 请继续按 ↓ concave concave &lt;/p&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20200818170725.1">&lt;section&gt;
+    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;p&gt;
+        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        
+    &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;Vertical Slides&lt;/h2&gt;
     &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
@@ -257,38 +264,80 @@ vertical: body pane on the botton</t>
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
     &lt;/a&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-transition="convex" data-transition-speed="slow"&gt;
-&lt;p&gt;convex convex convex  凸 面  convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex convex convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex 请继续按 ↓ convex convex&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171215.1">&lt;section&gt;
-&lt;p class="fragment"&gt;需要逐条目,&lt;/p&gt;
-&lt;span class="fragment"&gt;逐项&lt;/span&gt;
-&lt;pre class="fragment"&gt;地出现&lt;/pre&gt;
-&lt;p class="fragment grow"&gt;增大&lt;/p&gt;
-&lt;p class="fragment shrink"&gt;缩小&lt;/p&gt;
-&lt;p class="fragment fade-out"&gt;阅后消失&lt;/p&gt;
+<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
+    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
+    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
+        import React, { useState } from 'react';
+
+        function Example() {
+          const [count, setCount] = useState(0);
+
+          return (
+            ...
+          );
+        }
+    &lt;/code&gt;&lt;/pre&gt;
+    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
+
+</t>
+<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
+    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
+    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
+        import React, { useState } from 'react';
+
+        function Example() {
+          const [count, setCount] = useState(0);
+
+          return (
+            &amp;lt;div&amp;gt;
+              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
+              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
+                Click me
+              &amp;lt;/button&amp;gt;
+            &amp;lt;/div&amp;gt;
+          );
+        }
+
+        function SecondExample() {
+          const [count, setCount] = useState(0);
+
+          return (
+            &amp;lt;div&amp;gt;
+              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
+              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
+                Click me
+              &amp;lt;/button&amp;gt;
+            &amp;lt;/div&amp;gt;
+          );
+        }
+    &lt;/code&gt;&lt;/pre&gt;
+&lt;/section&gt;
+
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-&lt;p class="fragment fade-up"&gt;向上出现&lt;/p&gt;
-&lt;p class="fragment fade-right"&gt;向右出现&lt;/p&gt;
-
-&lt;p class="fragment" data-fragment-index="3"&gt;再次&lt;/p&gt;
-&lt;p class="fragment" data-fragment-index="2"&gt;其次&lt;/p&gt;
-&lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171312.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;40823224&lt;/h3&gt;
+    &lt;h2&gt;Point of View&lt;/h2&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
+    &lt;/p&gt;
+    &lt;p&gt;
+        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
+    &lt;/p&gt;
+    &lt;p&gt;
+        (NOTE: Use ctrl + click in Linux.)
     &lt;/p&gt;
 &lt;/section&gt;
 
+</t>
+<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
+    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
+    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
+    &lt;div class="r-hstack justify-center"&gt;
+        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
+        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
+        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;div class="r-hstack justify-center"&gt;
