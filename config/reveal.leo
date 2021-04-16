@@ -262,19 +262,23 @@ vertical: body pane on the botton</t>
 &lt;p&gt;convex convex convex convex convex convex&lt;/p&gt;
 &lt;p&gt;convex convex convex 请继续按 ↓ convex convex&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171215.1">
+<t tx="leo.20200818171215.1">&lt;section&gt;
 &lt;p class="fragment"&gt;需要逐条目,&lt;/p&gt;
 &lt;span class="fragment"&gt;逐项&lt;/span&gt;
 &lt;pre class="fragment"&gt;地出现&lt;/pre&gt;
 &lt;p class="fragment grow"&gt;增大&lt;/p&gt;
 &lt;p class="fragment shrink"&gt;缩小&lt;/p&gt;
-&lt;p class="fragment fade-out"&gt;阅后消失&lt;/p&gt;</t>
-<t tx="leo.20200818171244.1">&lt;p class="fragment fade-up"&gt;向上出现&lt;/p&gt;
+&lt;p class="fragment fade-out"&gt;阅后消失&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171244.1">&lt;section&gt;
+&lt;p class="fragment fade-up"&gt;向上出现&lt;/p&gt;
 &lt;p class="fragment fade-right"&gt;向右出现&lt;/p&gt;
 
 &lt;p class="fragment" data-fragment-index="3"&gt;再次&lt;/p&gt;
 &lt;p class="fragment" data-fragment-index="2"&gt;其次&lt;/p&gt;
-&lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;</t>
+&lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;h2&gt;Auto-Animate&lt;/h2&gt;
     &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
