@@ -20,10 +20,6 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20210416150448.1"><vh>1</vh></v>
-<v t="leo.20210416150452.1"><vh>2</vh></v>
-<v t="leo.20210416150539.1"><vh>3</vh></v>
-<v t="leo.20210416150605.1"><vh>4</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -658,26 +654,6 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210416150448.1">&lt;section data-transition="fade" data-transition-speed="slow"&gt;
-&lt;p&gt;fade fade fade 淡 入 效 果 fade fade fade&lt;/p&gt;
-&lt;p&gt;fade fade fade fade  fade fade fade fade&lt;/p&gt;
-&lt;p&gt;fade fade fade  请继续按 ↓ fade fade fade&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210416150452.1">&lt;section data-transition="concave" data-transition-speed="slow"&gt;
-&lt;p&gt;concave concave  凹  面  concave concave &lt;/p&gt;
-&lt;p&gt;concave concave concave concave concave &lt;/p&gt;
-&lt;p&gt;concave concave 请继续按 ↓ concave concave &lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210416150539.1">&lt;section data-transition="convex" data-transition-speed="slow"&gt;
-&lt;p&gt;convex convex convex  凸 面  convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex convex convex convex&lt;/p&gt;
-&lt;p&gt;convex convex convex 请继续按 ↓ convex convex&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210416150605.1">&lt;section data-transition="slide" data-transition-speed="slow"&gt;
-&lt;p&gt;slide slide slide  滑 入 slide slide slide&lt;/p&gt;
-&lt;p&gt;slide slide slide slide slide slide slide&lt;/p&gt;
-&lt;p&gt;slide slide slide  请按 → slide slide slide&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
