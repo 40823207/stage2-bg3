@@ -279,16 +279,11 @@ vertical: body pane on the botton</t>
 &lt;p class="fragment" data-fragment-index="2"&gt;其次&lt;/p&gt;
 &lt;p class="fragment" data-fragment-index="1"&gt;首先&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818171312.1">&lt;section data-transition="zoom" data-transition-speed="slow"&gt;
+&lt;p&gt;convex convex convex  凸 面  convex convex&lt;/p&gt;
+&lt;p&gt;convex convex convex convex convex convex&lt;/p&gt;
+&lt;p&gt;convex convex convex 请继续按 ↓ convex convex&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;div class="r-hstack justify-center"&gt;
         &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
