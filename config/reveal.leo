@@ -247,7 +247,7 @@ vertical: body pane on the botton</t>
   &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20210422233845.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="4400" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
    &lt;h5&gt;夾爪組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
@@ -272,10 +272,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233907.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片1.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片2.png" width="500"/&gt;&lt;/p&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片3.png" width="500"/&gt;&lt;/p&gt;
-   &lt;h5&gt;墊片&lt;/h5&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片2.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;墊片&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233910.1"></t>
