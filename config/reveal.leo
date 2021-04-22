@@ -20,12 +20,6 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide 3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210319111602.1"><vh>slide 3-4</vh></v>
-</v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
 <v t="leo.20210422233845.1"><vh>slide 4-2</vh></v>
@@ -222,17 +216,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;section&gt;
-    &lt;h2&gt;第一版&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1"></t>
-<t tx="leo.20200818170953.1"></t>
-<t tx="leo.20200818171010.1"></t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
-   &lt;h3&gt;第二版&lt;/h3&gt;
+   &lt;h3&gt;娃娃機&lt;/h3&gt;
    @others
 &lt;/section&gt;
 
@@ -253,7 +238,6 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319111602.1"></t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
 　　此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
@@ -330,7 +314,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001632.1">&lt;section&gt;
-     &lt;p&gt;&lt;img alt="" height="490" src="https://40823224.github.io/stage2-bg3/images/夾爪1.png" width="327"/&gt;&lt;/p&gt;
+     &lt;p&gt;&lt;img alt="" height="327" src="https://40823224.github.io/stage2-bg3/images/夾爪1.png" width="490"/&gt;&lt;/p&gt;
      &lt;h5&gt;夾爪&lt;/h5&gt;
 &lt;/section&gt;
 </t>
@@ -367,7 +351,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002749.1">&lt;section&gt;
-     &lt;p&gt;&lt;img alt="" height="556" src="https://40823224.github.io/stage2-bg3/images/鉤爪.png" width="371"/&gt;&lt;/p&gt;
+     &lt;p&gt;&lt;img alt="" height="382" src="https://40823224.github.io/stage2-bg3/images/鉤爪.png" width="572"/&gt;&lt;/p&gt;
      &lt;h5&gt;鉤爪&lt;/h5&gt;
 &lt;/section&gt;
 </t>
