@@ -26,7 +26,6 @@
 <v t="leo.20210422233850.1"><vh>slide 4-3</vh></v>
 <v t="leo.20210422233855.1"><vh>slide 4-4</vh></v>
 <v t="leo.20210422233859.1"><vh>slide 4-5</vh></v>
-<v t="leo.20210422233904.1"><vh>slide 4-6</vh></v>
 <v t="leo.20210422233907.1"><vh>slide 4-7</vh></v>
 <v t="leo.20210422233910.1"><vh>slide 4-8</vh></v>
 <v t="leo.20210422233913.1"><vh>slide 4-9</vh></v>
@@ -224,7 +223,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖1.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;h5 class="fragment grow"組合圖 /h5&gt;
+      &lt;p class="fragment grow"&gt;組合圖&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
@@ -255,109 +254,104 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210422233850.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;底座&lt;/h5&gt;
+      &lt;p class="fragment grow"&gt;底座&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233855.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道1.png" width="587"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;軌道1&lt;/h5&gt;
+    &lt;p class="fragment grow"&gt;軌道1&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233859.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道2.png" width="587"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;軌道2&lt;/h5&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210422233904.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;底座&lt;/h5&gt;
+      &lt;p class="fragment grow"&gt;軌道2&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233907.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片2.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;墊片&lt;/h5&gt;
+         &lt;p class="fragment grow"&gt;墊片&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233910.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿1.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;連桿機構1&lt;/h5&gt;
+       &lt;p class="fragment grow"&gt;連桿機構1&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233913.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿2.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;連桿機構2&lt;/h5&gt;
+          &lt;p class="fragment grow"&gt;連桿機構2&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001029.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿3.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;連桿機構3&lt;/h5&gt;
+        &lt;p class="fragment grow"&gt;連桿機構3&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001051.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/滑塊.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;滑塊&lt;/h5&gt;
+      &lt;p class="fragment grow"&gt;滑塊&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001202.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/齒輪.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;齒輪&lt;/h5&gt;
+     &lt;p class="fragment grow"&gt;齒輪&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001240.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="420" src="https://40823224.github.io/stage2-bg3/images/尺條.png" width="631"/&gt;&lt;/p&gt;
-     &lt;h5&gt;尺條&lt;/h5&gt;
+     &lt;p class="fragment grow"&gt;尺條&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001247.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/轉把.png" width="500"/&gt;&lt;/p&gt;
-     &lt;h5&gt;轉把&lt;/h5&gt;
+     &lt;p class="fragment grow"&gt;轉把&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423001632.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="327" src="https://40823224.github.io/stage2-bg3/images/夾爪1.png" width="490"/&gt;&lt;/p&gt;
-     &lt;h5&gt;夾爪&lt;/h5&gt;
+      &lt;p class="fragment grow"&gt;夾爪&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002305.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="395" src="https://40823224.github.io/stage2-bg3/images/夾爪2.png" width="592"/&gt;&lt;/p&gt;
-     &lt;h5&gt;夾爪&lt;/h5&gt;
+        &lt;p class="fragment grow"&gt;夾爪&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002306.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="321" src="https://40823224.github.io/stage2-bg3/images/馬達.png" width="481"/&gt;&lt;/p&gt;
-     &lt;h5&gt;馬達&lt;/h5&gt;
+         &lt;p class="fragment grow"&gt;馬達&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002308.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="358" src="https://40823224.github.io/stage2-bg3/images/上底盤.png" width="537"/&gt;&lt;/p&gt;
-     &lt;h5&gt;上底盤&lt;/h5&gt;
+          &lt;p class="fragment grow"&gt;上底盤&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002529.1"></t>
 <t tx="leo.20210423002552.1"></t>
 <t tx="leo.20210423002743.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="394" src="https://40823224.github.io/stage2-bg3/images/下底盤.png" width="591"/&gt;&lt;/p&gt;
-     &lt;h5&gt;下底盤&lt;/h5&gt;
+         &lt;p class="fragment grow"&gt;下底盤&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002746.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="401" src="https://40823224.github.io/stage2-bg3/images/爪子機架.png" width="601"/&gt;&lt;/p&gt;
-     &lt;h5&gt;爪子機架&lt;/h5&gt;
+        &lt;p class="fragment grow"&gt;爪子機架&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002747.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="556" src="https://40823224.github.io/stage2-bg3/images/連桿.png" width="371"/&gt;&lt;/p&gt;
-     &lt;h5&gt;連桿&lt;/h5&gt;
+          &lt;p class="fragment grow"&gt;連桿&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002749.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="382" src="https://40823224.github.io/stage2-bg3/images/鉤爪.png" width="572"/&gt;&lt;/p&gt;
-     &lt;h5&gt;鉤爪&lt;/h5&gt;
+          &lt;p class="fragment grow"&gt;鉤爪&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002751.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="299" src="https://40823224.github.io/stage2-bg3/images/墊圈.png" width="471"/&gt;&lt;/p&gt;
-     &lt;h5&gt;墊圈&lt;/h5&gt;
+          &lt;p class="fragment grow"&gt;墊圈&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
