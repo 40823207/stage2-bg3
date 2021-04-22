@@ -190,7 +190,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;stage2-bg3&lt;/h2&gt;
     &lt;h3&gt;夾娃娃機&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://github.com/40823206/cd2021"&gt;40823206鄭郁潔&lt;/a&gt;and &lt;a href="https://github.com/40823207/cd2021"&gt;40823207張書鳳&lt;/a&gt; &lt;a href="https://github.com/40823223/cd2021"&gt;40823223梁恆誌&lt;/a&gt; and &lt;a href="https://github.com/40823224/cd2021"&gt;40823224蕭君亦&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://github.com/40823206/cd2021"&gt;40823206鄭郁潔&lt;/a&gt;、&lt;a href="https://github.com/40823207/cd2021"&gt;40823207張書鳳&lt;/a&gt;、&lt;a href="https://github.com/40823223/cd2021"&gt;40823223梁恆誌&lt;/a&gt;、&lt;a href="https://github.com/40823224/cd2021"&gt;40823224蕭君亦&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
