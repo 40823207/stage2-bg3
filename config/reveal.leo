@@ -229,7 +229,8 @@ vertical: body pane on the botton</t>
 
               &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/loWz5nwKAXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 &lt;h5&gt;軌道模擬&lt;/h5&gt;
-  &lt;h10&gt;利用軌道及伸縮機構進行X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
+  &lt;h10&gt;利用軌道及伸縮機構進行
+  X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
@@ -247,7 +248,7 @@ vertical: body pane on the botton</t>
   &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20210422233845.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="4400" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
    &lt;h5&gt;夾爪組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
