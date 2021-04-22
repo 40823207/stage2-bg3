@@ -36,8 +36,14 @@
 <v t="leo.20210422233907.1"><vh>slide 4-7</vh></v>
 <v t="leo.20210422233910.1"><vh>slide 4-8</vh></v>
 <v t="leo.20210422233913.1"><vh>slide 4-9</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 4-10</vh></v>
-<v t="leo.20210422232351.1"><vh>slide 4-11</vh></v>
+<v t="leo.20210423001029.1"><vh>slide 4-10</vh></v>
+<v t="leo.20210423001051.1"><vh>slide 4-11</vh></v>
+<v t="leo.20210423001202.1"><vh>slide 4-12</vh></v>
+<v t="leo.20210423001240.1"><vh>slide 4-13</vh></v>
+<v t="leo.20210423001247.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423001632.1"><vh>newHeadline</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 4-20</vh></v>
+<v t="leo.20210422232351.1"><vh>slide 4-21</vh></v>
 </v>
 <v t="leo.20210319114036.1"><vh>slide 5</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 6</vh></v>
@@ -277,7 +283,45 @@ vertical: body pane on the botton</t>
      &lt;h5&gt;墊片&lt;/h5&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210422233910.1"></t>
-<t tx="leo.20210422233913.1"></t>
+<t tx="leo.20210422233910.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿1.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;連桿機構1&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233913.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿2.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;連桿機構2&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001029.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿3.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;連桿機構3&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001051.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/滑塊.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;滑塊&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001202.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/齒輪.png" width="500"/&gt;&lt;/p&gt;
+     &lt;h5&gt;齒輪&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001240.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="420" src="https://40823224.github.io/stage2-bg3/images/尺條.png" width="631"/&gt;&lt;/p&gt;
+     &lt;h5&gt;尺條&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001247.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="490" src="https://40823224.github.io/stage2-bg3/images/夾爪1.png" width="327"/&gt;&lt;/p&gt;
+     &lt;h5&gt;夾爪&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001632.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="395" src="https://40823224.github.io/stage2-bg3/images/夾爪2.png" width="592"/&gt;&lt;/p&gt;
+     &lt;h5&gt;夾爪&lt;/h5&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
