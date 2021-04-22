@@ -36,6 +36,7 @@
 <v t="leo.20210319115327.1"><vh>slide 4-7</vh></v>
 <v t="leo.20210319115333.1"><vh>slide 4-8</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 4-9</vh></v>
+<v t="leo.20210422232351.1"><vh>slide 4-10</vh></v>
 </v>
 <v t="leo.20210319114036.1"><vh>slide 5</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 6</vh></v>
@@ -240,9 +241,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
 
-              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/28EcMEL3JRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
-&lt;h5&gt;第二版模擬&lt;/h5&gt;
-  &lt;h10&gt;重新設計了作動方式，一樣是使用連桿，但這次是把下壓的連桿另一端改成一個旋轉軸，再將軸連接一個齒輪，並將輪子上的軸也加裝了齒輪，兩個齒輪碰到後，驅動了輪子旋轉。&lt;/h10&gt;
+              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/loWz5nwKAXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+&lt;h5&gt;軌道模擬&lt;/h5&gt;
+  &lt;h10&gt;利用軌道及伸縮機構進行X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
@@ -257,7 +258,7 @@ vertical: body pane on the botton</t>
         &lt;/section&gt;</t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
-    此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
+　　此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
 &lt;/section&gt;</t>
 <t tx="leo.20210319114647.1">&lt;section&gt;
     
@@ -294,5 +295,11 @@ vertical: body pane on the botton</t>
    &lt;p&gt;&lt;img alt="" height="320" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="600"/&gt;&lt;/p&gt; 
    &lt;h5&gt;輪軸&lt;/h5&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210422232351.1">&lt;section&gt;
+
+              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6YaHJGjeuUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+&lt;h5&gt;夾爪模擬&lt;/h5&gt;
+  &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
+        &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
