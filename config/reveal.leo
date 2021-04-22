@@ -228,7 +228,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
    &lt;h5&gt;底座&lt;/h5&gt;
 &lt;/section&gt;
 </t>
