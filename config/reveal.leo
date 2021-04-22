@@ -224,7 +224,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖1.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;組合圖&lt;/h5&gt;
+   &lt;h5 class="fragment grow"組合圖 /h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
@@ -250,7 +250,7 @@ vertical: body pane on the botton</t>
         &lt;/section&gt;</t>
 <t tx="leo.20210422233845.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;夾爪組合圖&lt;/h5&gt;
+   &lt;h5 class="fragment grow"夾爪組合圖 /h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422233850.1">&lt;section&gt;
