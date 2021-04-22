@@ -47,9 +47,7 @@
 <v t="leo.20200818194933.1"><vh>slide 4-24</vh></v>
 <v t="leo.20210422232351.1"><vh>slide 4-25</vh></v>
 </v>
-<v t="leo.20210423002529.1"><vh>slide 5</vh>
-<v t="leo.20210423002552.1"><vh>newHeadline</vh></v>
-</v>
+<v t="leo.20210423002529.1"><vh>slide 5</vh></v>
 <v t="leo.20210319114036.1"><vh>slide 6</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 7</vh></v>
 </v>
@@ -240,7 +238,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
-　　此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
+　&lt;p class="fragment fade-right"&gt;此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。&lt;/p&gt;　
 &lt;/section&gt;</t>
 <t tx="leo.20210422232351.1">&lt;section&gt;
 
@@ -334,7 +332,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20210423002552.1"></t>
 <t tx="leo.20210423002743.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="394" src="https://40823224.github.io/stage2-bg3/images/下底盤.png" width="591"/&gt;&lt;/p&gt;
          &lt;p class="fragment grow"&gt;下底盤&lt;/p&gt;
