@@ -28,13 +28,6 @@
 </v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
-<v t="leo.20210319114647.1"><vh>slide 4-2</vh></v>
-<v t="leo.20210319114658.1"><vh>slide 4-3</vh></v>
-<v t="leo.20210319114703.1"><vh>slide 4-4</vh></v>
-<v t="leo.20210319114706.1"><vh>slide 4-5</vh></v>
-<v t="leo.20210319115217.1"><vh>slide 4-6</vh></v>
-<v t="leo.20210319115327.1"><vh>slide 4-7</vh></v>
-<v t="leo.20210319115333.1"><vh>slide 4-8</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 4-9</vh></v>
 <v t="leo.20210422232351.1"><vh>slide 4-10</vh></v>
 </v>
@@ -235,8 +228,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="574" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="672"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;組合圖&lt;/h5&gt;
+   &lt;p&gt;&lt;img alt="" height="600" src="https://40823224.github.io/stage1-bg13/images/底座.png" width="600"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;底座&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
@@ -259,41 +252,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
 　　此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
-&lt;/section&gt;</t>
-<t tx="leo.20210319114647.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/本體.PNG" width="631"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;本體&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114658.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="472" src="https://40823223.github.io/stage1-bg13/images/輪子.PNG" width="427"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪子&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114703.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/拉桿.PNG" width="631"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;拉桿&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114706.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/旋轉接頭.PNG" width="200"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;旋轉接頭&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115217.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/輪桿轉接.PNG" width="200"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪桿轉接&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115327.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="330" src="https://40823223.github.io/stage1-bg13/images/連桿.PNG" width="600"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;連桿&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115333.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="320" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="600"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪軸&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422232351.1">&lt;section&gt;
 
