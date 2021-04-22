@@ -20,6 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210423005844.1"><vh>slide 3</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
 <v t="leo.20210422233845.1"><vh>slide 4-2</vh></v>
@@ -327,7 +328,12 @@ vertical: body pane on the botton</t>
           &lt;p class="fragment grow"&gt;上底盤&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210423002529.1"></t>
+<t tx="leo.20210423002529.1">&lt;section&gt;
+    &lt;h2&gt;PDF檔案&lt;/h2&gt;
+    &lt;iframe src="https://drive.google.com/file/d/1w1-Bx8j9jrSBh83gvw2ui9aU2PIfOqPl/preview" width="640" height="480"&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20210423002552.1"></t>
 <t tx="leo.20210423002743.1">&lt;section&gt;
      &lt;p&gt;&lt;img alt="" height="394" src="https://40823224.github.io/stage2-bg3/images/下底盤.png" width="591"/&gt;&lt;/p&gt;
@@ -340,7 +346,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423002747.1">&lt;section&gt;
-     &lt;p&gt;&lt;img alt="" height="556" src="https://40823224.github.io/stage2-bg3/images/連桿.png" width="371"/&gt;&lt;/p&gt;
+     &lt;p&gt;&lt;img alt="" height="463" src="https://40823224.github.io/stage2-bg3/images/連桿.png" width="309"/&gt;&lt;/p&gt;
           &lt;p class="fragment grow"&gt;連桿&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -354,5 +360,6 @@ vertical: body pane on the botton</t>
           &lt;p class="fragment grow"&gt;墊圈&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210423005844.1"></t>
 </tnodes>
 </leo_file>
