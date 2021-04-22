@@ -211,24 +211,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-
-   &lt;p&gt;&lt;img alt="" height="470" src="https://40823223.github.io/stage1-bg13/images/第二版.png" width="470"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;組合圖&lt;/h5&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-   
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/0本體.PNG" width="664"/&gt;&lt;/p&gt;
-   &lt;h5&gt;本體&lt;/h5&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-   
-   &lt;p&gt;&lt;img alt="" height="430" src="https://40823223.github.io/stage1-bg13/images/0輪子.PNG" width="500"/&gt;&lt;/p&gt;
-   &lt;h5&gt;輪子&lt;/h5&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818170909.1"></t>
+<t tx="leo.20200818170953.1"></t>
+<t tx="leo.20200818171010.1"></t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
    &lt;h3&gt;第二版&lt;/h3&gt;
    @others
@@ -236,8 +221,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;底座&lt;/h5&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖1.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
@@ -250,13 +235,7 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319111602.1">  &lt;section&gt;
-
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LZOSuJbeLGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
-
-&lt;h5&gt;第一版模擬&lt;/h5&gt;
-&lt;h15&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h15&gt;
-        &lt;/section&gt;</t>
+<t tx="leo.20210319111602.1"></t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
 　　此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
@@ -268,19 +247,37 @@ vertical: body pane on the botton</t>
   &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20210422233845.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;夾爪組合圖&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233850.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;底座&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233855.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道1.png" width="587"/&gt;&lt;/p&gt; 
    &lt;h5&gt;軌道1&lt;/h5&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210422233850.1">&lt;section&gt;
+<t tx="leo.20210422233859.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道2.png" width="587"/&gt;&lt;/p&gt; 
    &lt;h5&gt;軌道2&lt;/h5&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210422233855.1"></t>
-<t tx="leo.20210422233859.1"></t>
-<t tx="leo.20210422233904.1"></t>
-<t tx="leo.20210422233907.1"></t>
+<t tx="leo.20210422233904.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;底座&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233907.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片1.png" width="500"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片2.png" width="500"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片3.png" width="500"/&gt;&lt;/p&gt;
+   &lt;h5&gt;墊片&lt;/h5&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422233910.1"></t>
 <t tx="leo.20210422233913.1"></t>
 </tnodes>
