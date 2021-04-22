@@ -20,25 +20,36 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide 3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210319111602.1"><vh>slide 3-4</vh></v>
-</v>
+<v t="leo.20210423005844.1"><vh>slide 3</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
-<v t="leo.20210319114647.1"><vh>slide 4-2</vh></v>
-<v t="leo.20210319114658.1"><vh>slide 4-3</vh></v>
-<v t="leo.20210319114703.1"><vh>slide 4-4</vh></v>
-<v t="leo.20210319114706.1"><vh>slide 4-5</vh></v>
-<v t="leo.20210319115217.1"><vh>slide 4-6</vh></v>
-<v t="leo.20210319115327.1"><vh>slide 4-7</vh></v>
-<v t="leo.20210319115333.1"><vh>slide 4-8</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 4-9</vh></v>
+<v t="leo.20210422233845.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210422233850.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210422233855.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210422233859.1"><vh>slide 4-5</vh></v>
+<v t="leo.20210422233907.1"><vh>slide 4-7</vh></v>
+<v t="leo.20210422233910.1"><vh>slide 4-8</vh></v>
+<v t="leo.20210422233913.1"><vh>slide 4-9</vh></v>
+<v t="leo.20210423001029.1"><vh>slide 4-10</vh></v>
+<v t="leo.20210423001051.1"><vh>slide 4-11</vh></v>
+<v t="leo.20210423001202.1"><vh>slide 4-12</vh></v>
+<v t="leo.20210423001240.1"><vh>slide 4-13</vh></v>
+<v t="leo.20210423001247.1"><vh>slide 4-14</vh></v>
+<v t="leo.20210423001632.1"><vh>slide 4-15</vh></v>
+<v t="leo.20210423002305.1"><vh>slide 4-16</vh></v>
+<v t="leo.20210423002306.1"><vh>slide 4-17</vh></v>
+<v t="leo.20210423002308.1"><vh>slide 4-18</vh></v>
+<v t="leo.20210423002743.1"><vh>slide 4-19</vh></v>
+<v t="leo.20210423002746.1"><vh>slide 4-20</vh></v>
+<v t="leo.20210423002747.1"><vh>slide 4-21</vh></v>
+<v t="leo.20210423002749.1"><vh>slide 4-22</vh></v>
+<v t="leo.20210423002751.1"><vh>slide 4-23</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 4-24</vh></v>
+<v t="leo.20210422232351.1"><vh>slide 4-25</vh></v>
 </v>
-<v t="leo.20210319114036.1"><vh>slide 5</vh></v>
-<v t="leo.20200818195800.1"><vh>slide 6</vh></v>
+<v t="leo.20210423002529.1"><vh>slide 5</vh></v>
+<v t="leo.20210319114036.1"><vh>slide 6</vh></v>
+<v t="leo.20200818195800.1"><vh>slide 7</vh></v>
 </v>
 </v>
 </v>
@@ -203,96 +214,149 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;section&gt;
-    &lt;h2&gt;第一版&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-
-   &lt;p&gt;&lt;img alt="" height="470" src="https://40823223.github.io/stage1-bg13/images/第二版.png" width="470"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;組合圖&lt;/h5&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-   
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/0本體.PNG" width="664"/&gt;&lt;/p&gt;
-   &lt;h5&gt;本體&lt;/h5&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-   
-   &lt;p&gt;&lt;img alt="" height="430" src="https://40823223.github.io/stage1-bg13/images/0輪子.PNG" width="500"/&gt;&lt;/p&gt;
-   &lt;h5&gt;輪子&lt;/h5&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
-   &lt;h3&gt;第二版&lt;/h3&gt;
+   &lt;h3&gt;娃娃機&lt;/h3&gt;
    @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
-   &lt;p&gt;&lt;img alt="" height="574" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="672"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;組合圖&lt;/h5&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/組合圖1.png" width="500"/&gt;&lt;/p&gt; 
+      &lt;p class="fragment grow"&gt;組合圖&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
 
-              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/28EcMEL3JRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
-&lt;h5&gt;第二版模擬&lt;/h5&gt;
-  &lt;h10&gt;重新設計了作動方式，一樣是使用連桿，但這次是把下壓的連桿另一端改成一個旋轉軸，再將軸連接一個齒輪，並將輪子上的軸也加裝了齒輪，兩個齒輪碰到後，驅動了輪子旋轉。&lt;/h10&gt;
+              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/loWz5nwKAXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+&lt;h5&gt;軌道模擬&lt;/h5&gt;
+  &lt;h10&gt;利用軌道及伸縮機構進行
+  X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319111602.1">  &lt;section&gt;
-
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LZOSuJbeLGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
-
-&lt;h5&gt;第一版模擬&lt;/h5&gt;
-&lt;h15&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h15&gt;
-        &lt;/section&gt;</t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
-    此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。
+　&lt;p class="fragment fade-right"&gt;此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。&lt;/p&gt;　
 &lt;/section&gt;</t>
-<t tx="leo.20210319114647.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/本體.PNG" width="631"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;本體&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114658.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="472" src="https://40823223.github.io/stage1-bg13/images/輪子.PNG" width="427"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪子&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114703.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/拉桿.PNG" width="631"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;拉桿&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114706.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/旋轉接頭.PNG" width="200"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;旋轉接頭&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115217.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="400" src="https://40823223.github.io/stage1-bg13/images/輪桿轉接.PNG" width="200"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪桿轉接&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115327.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="330" src="https://40823223.github.io/stage1-bg13/images/連桿.PNG" width="600"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;連桿&lt;/h5&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319115333.1">&lt;section&gt;
-    
-   &lt;p&gt;&lt;img alt="" height="320" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="600"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;輪軸&lt;/h5&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20210422232351.1">&lt;section&gt;
+
+              &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6YaHJGjeuUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+&lt;h5&gt;夾爪模擬&lt;/h5&gt;
+  &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
+        &lt;/section&gt;</t>
+<t tx="leo.20210422233845.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
+   &lt;p class="fragment grow"&gt;夾爪組合圖&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233850.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/底座.png" width="500"/&gt;&lt;/p&gt; 
+      &lt;p class="fragment grow"&gt;底座&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233855.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道1.png" width="587"/&gt;&lt;/p&gt; 
+    &lt;p class="fragment grow"&gt;軌道1&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233859.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道2.png" width="587"/&gt;&lt;/p&gt; 
+      &lt;p class="fragment grow"&gt;軌道2&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233907.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/墊片2.png" width="500"/&gt;&lt;/p&gt;
+         &lt;p class="fragment grow"&gt;墊片&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233910.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿1.png" width="500"/&gt;&lt;/p&gt;
+       &lt;p class="fragment grow"&gt;連桿機構1&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233913.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿2.png" width="500"/&gt;&lt;/p&gt;
+          &lt;p class="fragment grow"&gt;連桿機構2&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001029.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/連桿3.png" width="500"/&gt;&lt;/p&gt;
+        &lt;p class="fragment grow"&gt;連桿機構3&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001051.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/滑塊.png" width="500"/&gt;&lt;/p&gt;
+      &lt;p class="fragment grow"&gt;滑塊&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001202.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/齒輪.png" width="500"/&gt;&lt;/p&gt;
+     &lt;p class="fragment grow"&gt;齒輪&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001240.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="420" src="https://40823224.github.io/stage2-bg3/images/尺條.png" width="631"/&gt;&lt;/p&gt;
+     &lt;p class="fragment grow"&gt;尺條&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001247.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="500" src="https://40823224.github.io/stage2-bg3/images/轉把.png" width="500"/&gt;&lt;/p&gt;
+     &lt;p class="fragment grow"&gt;轉把&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423001632.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="327" src="https://40823224.github.io/stage2-bg3/images/夾爪1.png" width="490"/&gt;&lt;/p&gt;
+      &lt;p class="fragment grow"&gt;夾爪&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002305.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="395" src="https://40823224.github.io/stage2-bg3/images/夾爪2.png" width="592"/&gt;&lt;/p&gt;
+        &lt;p class="fragment grow"&gt;夾爪&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002306.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="321" src="https://40823224.github.io/stage2-bg3/images/馬達.png" width="481"/&gt;&lt;/p&gt;
+         &lt;p class="fragment grow"&gt;馬達&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002308.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="358" src="https://40823224.github.io/stage2-bg3/images/上底盤.png" width="537"/&gt;&lt;/p&gt;
+          &lt;p class="fragment grow"&gt;上底盤&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002529.1">&lt;section&gt;
+    &lt;h2&gt;PDF檔案&lt;/h2&gt;
+    &lt;iframe src="https://drive.google.com/file/d/1w1-Bx8j9jrSBh83gvw2ui9aU2PIfOqPl/preview" width="640" height="480"&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210423002743.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="394" src="https://40823224.github.io/stage2-bg3/images/下底盤.png" width="591"/&gt;&lt;/p&gt;
+         &lt;p class="fragment grow"&gt;下底盤&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002746.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="401" src="https://40823224.github.io/stage2-bg3/images/爪子機架.png" width="601"/&gt;&lt;/p&gt;
+        &lt;p class="fragment grow"&gt;爪子機架&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002747.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="463" src="https://40823224.github.io/stage2-bg3/images/連桿.png" width="309"/&gt;&lt;/p&gt;
+          &lt;p class="fragment grow"&gt;連桿&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002749.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="382" src="https://40823224.github.io/stage2-bg3/images/鉤爪.png" width="572"/&gt;&lt;/p&gt;
+          &lt;p class="fragment grow"&gt;鉤爪&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423002751.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="299" src="https://40823224.github.io/stage2-bg3/images/墊圈.png" width="471"/&gt;&lt;/p&gt;
+          &lt;p class="fragment grow"&gt;墊圈&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423005844.1"></t>
 </tnodes>
 </leo_file>
