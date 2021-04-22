@@ -28,8 +28,16 @@
 </v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 4-9</vh></v>
-<v t="leo.20210422232351.1"><vh>slide 4-10</vh></v>
+<v t="leo.20210422233845.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210422233850.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210422233855.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210422233859.1"><vh>slide 4-5</vh></v>
+<v t="leo.20210422233904.1"><vh>slide 4-6</vh></v>
+<v t="leo.20210422233907.1"><vh>slide 4-7</vh></v>
+<v t="leo.20210422233910.1"><vh>slide 4-8</vh></v>
+<v t="leo.20210422233913.1"><vh>slide 4-9</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 4-10</vh></v>
+<v t="leo.20210422232351.1"><vh>slide 4-11</vh></v>
 </v>
 <v t="leo.20210319114036.1"><vh>slide 5</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 6</vh></v>
@@ -259,5 +267,21 @@ vertical: body pane on the botton</t>
 &lt;h5&gt;夾爪模擬&lt;/h5&gt;
   &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
+<t tx="leo.20210422233845.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道1.png" width="587"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;軌道1&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233850.1">&lt;section&gt;
+   &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/軌道2.png" width="587"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;軌道2&lt;/h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422233855.1"></t>
+<t tx="leo.20210422233859.1"></t>
+<t tx="leo.20210422233904.1"></t>
+<t tx="leo.20210422233907.1"></t>
+<t tx="leo.20210422233910.1"></t>
+<t tx="leo.20210422233913.1"></t>
 </tnodes>
 </leo_file>
