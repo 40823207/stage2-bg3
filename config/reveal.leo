@@ -19,9 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh>
-<v t="leo.20210423124313.1"><vh>slide 2-1</vh></v>
-</v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20210423005844.1"><vh>slide 3</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
@@ -361,8 +359,7 @@ vertical: body pane on the botton</t>
           &lt;p class="fragment grow"&gt;墊圈&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210423005844.1"></t>
-<t tx="leo.20210423124313.1">&lt;section&gt;
+<t tx="leo.20210423005844.1">&lt;section data-transition="slide" data-background="#003060" data-background-transition="zoom"&gt;
     &lt;h2&gt;討論與分工&lt;/h2&gt;
     &lt;p&gt;
      &lt;a href="https://gitter.im/stage2-bg3/community"&gt;GITTER&lt;/a&gt; &lt;/p&gt;
