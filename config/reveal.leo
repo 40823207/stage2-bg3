@@ -361,11 +361,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210423005844.1">&lt;section data-transition="slide" data-background="#003060" data-background-transition="zoom"&gt;
     &lt;h2&gt;討論與分工&lt;/h2&gt;
-    &lt;p&gt;
-     &lt;a href="https://gitter.im/stage2-bg3/community"&gt;GITTER&lt;/a&gt; &lt;/p&gt;
-              &lt;p&gt; 繪圖、模擬：40823207、40823223
-網頁編輯、PDF製作：40823206、40823224
-    &lt;/p&gt;
-&lt;/section&gt;</t>
+     &lt;p&gt; &lt;a href="https://gitter.im/stage2-bg3/community"&gt;GITTER&lt;/a&gt; &lt;/p&gt;
+    &lt;p&gt;繪圖、模擬：40823207、40823223&lt;/p&gt;
+    &lt;p&gt;網頁編輯、PDF製作：40823206、40823224&lt;/p&gt;    
+&lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
