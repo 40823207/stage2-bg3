@@ -48,8 +48,9 @@
 <v t="leo.20210422232351.1"><vh>slide 4-25</vh></v>
 </v>
 <v t="leo.20210423002529.1"><vh>slide 5</vh></v>
-<v t="leo.20210319114036.1"><vh>slide 6</vh></v>
-<v t="leo.20200818195800.1"><vh>slide 7</vh></v>
+<v t="leo.20210423130935.1"><vh>slide 6</vh></v>
+<v t="leo.20210319114036.1"><vh>slide 7</vh></v>
+<v t="leo.20200818195800.1"><vh>slide 8</vh></v>
 </v>
 </v>
 </v>
@@ -139,11 +140,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -167,7 +170,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -187,14 +191,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section data-transition="slide" data-background="#003060" data-background-transition="zoom"&gt;
     &lt;h1&gt;CD2021&lt;/h1&gt;
     &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
@@ -231,7 +238,8 @@ vertical: body pane on the botton</t>
 &lt;h5&gt;軌道模擬&lt;/h5&gt;
   &lt;h10&gt;利用軌道及伸縮機構進行
   X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
-        &lt;/section&gt;</t>
+        &lt;/section&gt;
+</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;" data-transition="slide" data-background="#272727" data-background-transition="convex"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
@@ -240,14 +248,16 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210319114036.1">&lt;section data-transition="slide" data-background="#460046" data-background-transition="convex"&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
-　&lt;p class="fragment fade-right"&gt;此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，然而成員越多使得倉儲的維護難度也增加，所以小組需要經常溝通協調，共同維護網站。期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。&lt;/p&gt;　
-&lt;/section&gt;</t>
+　&lt;p class="fragment fade-right"&gt;此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，然而成員越多使得倉儲的維護難度也增加，所以小組需要經常溝通，共同維護網站。期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。&lt;/p&gt;　
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422232351.1">&lt;section&gt;
 
               &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6YaHJGjeuUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 &lt;h5&gt;夾爪模擬&lt;/h5&gt;
   &lt;h10&gt;利用齒輪及齒條機構進行Z軸方向的作動方式模擬&lt;/h10&gt;
-        &lt;/section&gt;</t>
+        &lt;/section&gt;
+</t>
 <t tx="leo.20210422233845.1">&lt;section&gt;
    &lt;p&gt;&lt;img alt="" height="440" src="https://40823224.github.io/stage2-bg3/images/組合圖.png" width="587"/&gt;&lt;/p&gt; 
    &lt;p class="fragment grow"&gt;夾爪組合圖&lt;/p&gt;
@@ -367,5 +377,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210423130935.1">&lt;section data-transition="slide" data-background="#460046" data-background-transition="convex"&gt;
+    &lt;h2&gt;參考資料&lt;/h2&gt;
+        &lt;a href="http://wukcsoft.blogspot.com/2019/03/pwm-electromagnetic-grabber.html"&gt;夾爪&lt;/a&gt;
+        &lt;a href="https://www.slideshare.net/nctusee/ss-38735336"&gt;滑軌&lt;/a&gt;
+        
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
