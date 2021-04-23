@@ -232,11 +232,13 @@ vertical: body pane on the botton</t>
   &lt;h10&gt;利用軌道及伸縮機構進行
   X軸及Y軸方向的作動方式模擬&lt;/h10&gt;
         &lt;/section&gt;</t>
-<t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
+<t tx="leo.20200818195800.1">&lt;section style="text-align: left;" data-transition="slide" data-background="#272727" data-background-transition="convex"&gt;&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210319114036.1">&lt;section&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210319114036.1">&lt;section data-transition="slide" data-background="#484891" data-background-transition="convex"&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
 　&lt;p class="fragment fade-right"&gt;此次W9的期中4人分組作業，我們重新開始了此項夾娃娃機的方案，期許我們可以對倉儲協同的操作更加熟悉；對於機件的運作原理更加理解；並且可以熟練的使用模擬軟體，為之後8人分組作業做好準備。&lt;/p&gt;　
 &lt;/section&gt;</t>
@@ -326,7 +328,7 @@ vertical: body pane on the botton</t>
           &lt;p class="fragment grow"&gt;上底盤&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210423002529.1">&lt;section&gt;
+<t tx="leo.20210423002529.1">&lt;section data-transition="slide" data-background="#484891" data-background-transition="convex"&gt;
     &lt;h2&gt;PDF檔案&lt;/h2&gt;
     &lt;iframe src="https://drive.google.com/file/d/1w1-Bx8j9jrSBh83gvw2ui9aU2PIfOqPl/preview" width="640" height="480"&gt;&lt;/iframe&gt;
 &lt;/section&gt;
