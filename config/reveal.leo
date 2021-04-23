@@ -195,7 +195,7 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section data-transition="slide" data-background="#004B97" data-background-transition="zoom"&gt;
+<t tx="leo.20200818170328.1">&lt;section data-transition="slide" data-background="#003060" data-background-transition="zoom"&gt;
     &lt;h1&gt;CD2021&lt;/h1&gt;
     &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
     &lt;h2&gt;stage2-bg3&lt;/h2&gt;
@@ -206,7 +206,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
+<t tx="leo.20200818170535.1">&lt;section data-transition="slide" data-background="#003060" data-background-transition="zoom"&gt;
     &lt;h2&gt;設計動機&lt;/h2&gt;
     &lt;p&gt;
         夾娃娃機先前在台灣掀起一陣熱潮，不論是租賃或是購買機台都成了一種新穎的投資方式，使得許多檯主出現，然而利潤多與少則是需要考驗檯主調校機台的技術以及內容物的選擇。於是我們想以設計者的角度嘗試初步的理解娃娃機的構造與原理。
@@ -214,7 +214,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
+<t tx="leo.20200818194812.1">&lt;section data-transition="slide" data-background="#28004D" data-background-transition="concave"&gt;
    &lt;h3&gt;娃娃機&lt;/h3&gt;
    @others
 &lt;/section&gt;
